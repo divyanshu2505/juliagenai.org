@@ -1,0 +1,10 @@
+juliagenai.org/
+├── resources/
+│   ├── images/
+│   ├── documents/
+│   └── tutorials/
+├── css/
+│   └── styles.css
+├── js/
+│   └── scripts.js
+└── index.html
